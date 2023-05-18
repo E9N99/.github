@@ -10,8 +10,8 @@
 - 🔭 Take a look at my repositories!
 - 🌱 I’m 18 years old!
 - 👯 I’m publish paid projects for free
-- 📫 How to reach me: https://t.me/R0R77
-- 📫 My telegram channel for updates: https://t.me/jmthon
+- 📫 How to reach me: https://t.me/nunuu
+- 📫 My telegram channel for updates: https://t.me/e9n99
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,python,markdown&theme=dark)](https://skills.thijs.gg)
 
