@@ -15,6 +15,6 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,python,markdown&theme=dark)](https://skills.thijs.gg)
 
-## Glad to see you here! ![visitors](https://gpvc.arturio.dev/thejmthon)
+## Glad to see you here! ![visitors](https://gpvc.arturio.dev/E9N99)
 
 ### Bey 👾
